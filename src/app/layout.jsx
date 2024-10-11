@@ -3,7 +3,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata = {
-    title: "Anime List",
+    title: "Anime List clone",
     description: "Website Anime List Created by: byag",
 };
 
